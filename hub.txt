@@ -1,0 +1,5 @@
+hub TOX4_ChIP-seq
+shortLabel TOX4_ChIP-seq
+longLabel TOX4_ChIP-seq
+genomesFile https://raw.githubusercontent.com/AiweiWu/UCSC_tracks/master/genomes.txt
+email aiwei.wu@sjtu.edu.cn
