@@ -1,0 +1,5 @@
+track TOX4_ChIP-seq
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/aiwei/UCSC_tracks.TOX4/Ctrl.TOX4__Ctrl2.TOX4.merge.bw
+shortLabel TOX4_ChIP-seq
+longLabel TOX4_ChIP-seq
+type bigWig
