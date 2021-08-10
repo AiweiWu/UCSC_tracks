@@ -1,2 +1,2 @@
 genome hg38
-trackDb https://raw.githubusercontent.com/dmanahan/UCSC_tracks/master/trackDb.txt
+trackDb https://raw.githubusercontent.com/AiweiWu/UCSC_tracks/master/trackDb.txt
